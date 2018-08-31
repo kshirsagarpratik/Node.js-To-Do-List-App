@@ -8,14 +8,16 @@ Please view a live instance of this app at: https://nodejs-to-do-list-app.heroku
 
 ### Description 
 
-Fully functional To-Do List,
+Fully *functional* To-Do List
 
-User can add, update and delete a to-do.
-The update implies either done/not done: when toggled shows strikethrough effect.
-The to-dos are persistent with the help of a database.
+* User can add, update and delete a to-do.
+* The update implies either done/not done: when toggled shows strikethrough effect.
+* The to-dos are persistent with the help of a database.
 
-Technology used:
+---
 
-Frontend: HTML, CSS and jQuery
-Server: Express.js
-Database: MongoDB
+#### Technology
+
+* Frontend: HTML, CSS and jQuery
+* Server: Express.js with jQuery
+* Database: MongoDB
